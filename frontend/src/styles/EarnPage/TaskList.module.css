@@ -1,0 +1,23 @@
+.tasks {
+    color: white;
+    position: fixed;
+    width: 98%;
+    height: 50vh;
+    background-color: #22252A;
+    border-radius: 24px;
+    left: 50%;
+    transform: translateX(-50%);
+    overflow: auto;
+}
+
+.tag {
+    width: 100%;
+    margin-left: 15%;
+    font-size: 175%;
+    color: white;
+}
+
+.taskList {
+    position: fixed;
+    top: 5%
+}

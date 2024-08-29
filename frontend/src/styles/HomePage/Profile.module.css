@@ -1,0 +1,20 @@
+.container {
+    width: 33vw;
+    height: 27vh;
+    margin: 10% auto 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.avatar {
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
+
+span {
+    font-size: 175%;
+    color: white;
+}

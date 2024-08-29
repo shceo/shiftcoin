@@ -1,0 +1,39 @@
+.navbar {
+    width: 78vw;
+    height: 9vh;
+    background-color: #22252A;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 40px;
+    position: fixed;
+    bottom: 3%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.navbarElement {
+    display: flex;
+    flex-direction: column;
+    width: 21%;
+    height: 83%;
+    align-items: center;
+    justify-content: center;
+    border-radius: 40px;
+    position: relative;
+    transition: background-color 0.3s ease;
+    font-size: 200%;
+    color: #434446;
+    text-decoration: none;
+}
+
+.icon {
+    width: 33%;
+    height: 34%;
+}
+
+.selected {
+    background-color: #000000;
+    border-radius: 40px;
+    color: white;
+}

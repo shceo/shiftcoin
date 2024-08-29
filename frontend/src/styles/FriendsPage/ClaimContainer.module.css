@@ -1,0 +1,19 @@
+.claimContainer {
+    width: 60vw;
+    padding: 2%;
+    background-color: #22252A;
+    position: fixed;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 20px;
+    text-align: center;
+    top: 25%;
+}
+
+.claim {
+    background-color: white;
+    width: 12%;
+    padding: 1% 3%;
+    margin: 1% auto 0 auto;
+    border-radius: 50px;
+}

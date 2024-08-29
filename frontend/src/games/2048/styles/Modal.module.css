@@ -1,0 +1,45 @@
+.modalBackdrop {
+    width: 90vw;
+    height: 90vw;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border-radius: 2%;
+    padding: 1%;
+    background: rgba(0, 0, 0, 0.7);
+    z-index: 1000;
+}
+
+.modalContent {
+    padding: 20px;
+    border-radius: 8px;
+    color: #fefefe;
+    font-size: 60px;
+    font-weight: bold;
+    height: 60px;
+    line-height: 60px;
+    font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.modalContent button {
+    background-color: #BBADA0;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 15%;
+    width: 100%;
+    padding: 3% 0;
+}

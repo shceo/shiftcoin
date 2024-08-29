@@ -1,0 +1,16 @@
+.table {
+    width: 90vw;
+    height: 90vw;
+    background-color: #BBADA0;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border-radius: 2%;
+    padding: 1%;
+}

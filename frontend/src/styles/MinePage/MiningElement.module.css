@@ -1,0 +1,39 @@
+.miningElementContainer {
+    display: flex;
+    width: 49%;
+    background-color: #22252A;
+    align-items: center;
+    border-radius: 15px;
+    padding: 2% 0;
+    margin-bottom: 5%;
+}
+
+.miningTextContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-right: 20%;
+}
+
+.miningTextBottom {
+    display: flex;
+    align-items: center;
+    font-size: 175%;
+}
+
+.miningElementIcon {
+    margin: 0 7% 0 15%;
+}
+
+.miningText {
+    font-size: 125%
+}
+
+.miningCoin {
+    margin-right: 5px;
+}
+
+.arrow {
+    font-size: 200%;
+    font-weight: 200;
+}

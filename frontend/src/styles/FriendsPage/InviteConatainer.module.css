@@ -1,0 +1,29 @@
+.invite {
+    background: #FFFFFF;
+    width: 60vw;
+    text-align: center;
+    border-radius: 10px;
+    margin-right: 5%;
+    padding: 2%;
+}
+
+.copy {
+    background: #FFFFFF;
+    width: 5vw;
+    text-align: center;
+    border-radius: 10px;
+    padding: 3%;
+}
+
+.span {
+    color: #000000;
+    margin-right: 2%;
+}
+
+.inviteContainer {
+    display: flex;
+    position: fixed;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 20%;
+}

@@ -1,0 +1,74 @@
+.cell {
+    background-color: #CDC1B4;
+    margin: 2%;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 5em;
+    font-weight: bold;
+    color: #776E65;
+    aspect-ratio: 1;
+    border-radius: 5%;
+    font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
+}
+
+
+.value-2 {
+    background-color: #EEE4DA;
+    color: #776E65;
+}
+
+.value-4 {
+    background-color: #EDE0C8;
+    color: #776E65;
+}
+
+.value-8 {
+    background-color: #F2B179;
+    color: #F9F6F2;
+}
+
+.value-16 {
+    background-color: #F59563;
+    color: #F9F6F2;
+}
+
+.value-32 {
+    background-color: #F67C5F;
+    color: #F9F6F2;
+}
+
+.value-64 {
+    background-color: #F65E3B;
+    color: #F9F6F2;
+}
+
+.value-128 {
+    background-color: #EDCF72;
+    color: #F9F6F2;
+}
+
+.value-256 {
+    background-color: #EDCC61;
+    color: #F9F6F2;
+}
+
+.value-512 {
+    background-color: #EDC850;
+    color: #F9F6F2;
+}
+
+.value-1024 {
+    background-color: #EDC53F;
+    color: #F9F6F2;
+}
+
+.value-2048 {
+    background-color: #EDC22E;
+    color: #F9F6F2;
+}
+
+.empty {
+    background-color: #CDC1B4;
+}

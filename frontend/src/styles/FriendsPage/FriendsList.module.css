@@ -1,0 +1,9 @@
+.friendsList {
+    color: white;
+    position: fixed;
+    top: 35%;
+    background-color: #22252A;
+    width: 90vw;
+    left: 50%;
+    transform: translateX(-50%);
+}

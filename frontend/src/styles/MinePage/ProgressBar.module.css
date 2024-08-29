@@ -1,0 +1,16 @@
+.progressBar {
+    width: 50vw;
+    height: 2vh;
+}
+
+.progressBarContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.progressBarContainer img,
+.progressBarContainer span,
+.progressBarContainer progress {
+    margin-right: 4%;
+}

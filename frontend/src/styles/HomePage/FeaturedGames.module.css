@@ -1,0 +1,58 @@
+.featuredGames {
+    position: fixed;
+    width: 100%;
+    top: 35%;
+}
+
+.games {
+    position: fixed;
+    width: 98%;
+    height: 43vh;
+    background-color: #22252A;
+    border-radius: 24px;
+    left: 50%;
+    transform: translateX(-50%);
+    overflow: auto;
+}
+
+.game {
+    width: 91%;
+    height: 22%;
+    display: flex;
+    align-items: center;
+    margin: auto;
+    padding: 1% 0;
+    color: white;
+}
+
+.icon {
+    max-width: 100%;
+    max-height: 100%;
+    margin: 0 5% 0 10%;
+    border-radius: 17px;
+}
+
+.text {
+    margin-right: 20%;
+}
+
+.text strong {
+    font-size: 150%;
+}
+
+.tag {
+    margin-left: 3%;
+    font-size: 175%;
+    color: white;
+}
+
+.play {
+    position: fixed;
+    right: 10%;
+    width: auto;
+    padding: .5% 3%;
+    background-color: #026EC8;
+    border: none;
+    border-radius: 7px;
+    color: white;
+}

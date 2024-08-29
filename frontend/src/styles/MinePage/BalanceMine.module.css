@@ -1,0 +1,19 @@
+.balanceMine {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: fixed;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 20%;
+    top: 15%;
+    color: white;
+}
+
+.balance {
+    font-size: 250%;
+    margin-bottom: 15%;
+}
+.balanceCount {
+    font-size: 400%;
+}

@@ -1,0 +1,15 @@
+.container span {
+    color: black;
+}
+
+.container {
+    background-color: #FFFFFF;
+    text-align: center;
+    padding: 2%;
+    border-radius: 20px;
+    width: 90%;
+    position: fixed;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 20%;
+}

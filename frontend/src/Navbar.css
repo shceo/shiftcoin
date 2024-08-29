@@ -1,0 +1,26 @@
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    background-color: #f0f0f0;
+    padding: 10px;
+}
+
+.navbar-item {
+    position: relative;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.navbar-item.selected {
+    font-weight: bold;
+}
+
+.indicator {
+    position: absolute;
+    bottom: -5px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 20px;
+    height: 20px;
+    background-color: black;
+}
